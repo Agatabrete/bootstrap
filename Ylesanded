@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <link rel="shortcut icon" href="favicon.ico" >
+    <meta name="author" content="Agata Brete Jõpiselg IT-23" >
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML,CSS,HTML5,CSS3" >
+    <title>Ülesanded</title>
+</head>
+<body>
+    <h1>Agata Brete Ülesanded</h1>
+
+    <nav>
+        <a href="bs01.html">bs01</a>
+        <a href="bs02.html">bs02</a> 
+        <a href="bs03.html">bs03</a>
+        <a href="bs04.html">bs04</a>
+        <a href="bs05.html">bs05</a>
+        <a href="bs06.html">bs06</a>
+        <a href="bs07.html">bs07</a>
+        <a href="bs08.html">bs08</a>
+        <a href="bs09.html">bs09</a>
+
+    </nav>
+
+
+  
+
+</body>
+</html>
